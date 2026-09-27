@@ -1,4 +1,4 @@
 <h1 align="center">Hi!</h1>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://giphy.com/gifs/anime-hello-wave-BZlvPwfbvTkO2yCZkJ">
+  <img align="right" top="100" height="400" width="800" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF3aTI5YmpwYnN1aTc2MWhudDdqc25zeWJmMGVjc3ozb2Q3bTF3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZlvPwfbvTkO2yCZkJ/giphy.gif">
 </a>
