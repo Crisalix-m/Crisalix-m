@@ -1,19 +1,6 @@
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" width="33%" style="border: 0px;">
-      🐸 
-    </td>
-    <td align="center" width="34%" style="border: 0px;">
-      <h1>Hi!</h1>
-    </td>
-    <td align="right" width="33%" style="border: 0px;">
-      🐸 
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi!</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
